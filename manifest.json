@@ -1,0 +1,18 @@
+{
+  "name": "Top Dog Diner",
+  "short_name": "Top Dog",
+  "description": "Run your own hot dog shop! Time-management restaurant game.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1f2e",
+  "theme_color": "#f5c518",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
